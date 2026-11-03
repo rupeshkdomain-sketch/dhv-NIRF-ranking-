@@ -1,0 +1,101 @@
+﻿Institute ID,Name,City,State,Score,Rank
+IR-1-O-O-U-0220,Indian Institute of Science  More Details |  |,Bengaluru,Karnataka,82.16,1
+IR-2-O-OE-U-0456,Indian Institute of Technology Madras  More Details |  |,Chennai,Tamil Nadu,81.39,2
+IR-3-O-OEM-U-0306,Indian Institute of Technology Bombay  More Details |  |,Mumbai,Maharashtra,79.2,3
+IR-3-O-OEM-I-1074,Indian Institute of Technology Delhi  More Details |  |,New Delhi,Delhi,73.97,4
+IR-5-O-OEMAL-U-0573,Indian Institute of Technology Kharagpur  More Details |  |,Kharagpur,West Bengal,71.39,5
+IR-1-O-O-U-0109,Jawaharlal Nehru University  More Details |  |,New Delhi,Delhi,67.57,6
+IR-3-O-OEM-I-1075,Indian Institute of Technology Kanpur  More Details |  |,Kanpur,Uttar Pradesh,65.39,7
+IR-4-O-OEMA-U-0560,Indian Institute of Technology Roorkee  More Details |  |,Roorkee,Uttarakhand,64.93,8
+IR-3-O-OMD-U-0500,Banaras Hindu University  More Details |  |,Varanasi,Uttar Pradesh,63.52,9
+IR-4-O-OEMA-U-0439,Anna University  More Details |  |,Chennai,Tamil Nadu,62.82,10
+IR-1-O-O-U-0042,University of Hyderabad  More Details |  |,Hyderabad,Telangana,60.54,11
+IR-2-O-OE-U-0053,Indian Institute of Technology Guwahati  More Details |  |,Guwahati,Assam,60.16,12
+IR-2-O-OE-U-0575,Jadavpur University  More Details |  |,Kolkata,West Bengal,59.68,13
+IR-1-O-O-U-0120,University of Delhi  More Details |  |,Delhi,Delhi,58.69,14
+IR-1-O-O-U-0436,Amrita Vishwa Vidyapeetham  More Details |  |,Coimbatore,Tamil Nadu,58.46,15
+IR-1-O-O-U-0323,Savitribai Phule Pune University  More Details |  |,Pune,Maharashtra,58.24,16
+IR-7-O-OEMALDC-U-0496,Aligarh Muslim University  More Details |  |,Aligarh,Uttar Pradesh,57.78,17
+IR-1-O-O-U-0234,Manipal Academy of Higher Education  More Details |  |,Manipal,Karnataka,57.37,18
+IR-5-O-OEMAL-U-0108,Jamia Millia Islamia  More Details |  |,New Delhi,Delhi,56.18,19
+IR-1-O-C-U-0447,Bharathiar University  More Details |  |,Coimbatore,Tamil Nadu,55.08,20
+IR-1-O-O-U-0570,Calcutta University  More Details |  |,Kolkata,West Bengal,53.38,21
+IR-2-O-OE-U-0013,Indian Institute of Technology Hyderabad  More Details |  |,Hyderabad,Telangana,53.07,22
+IR-1-O-D-U-0523,King George`s Medical University  More Details |  |,Lucknow,Uttar Pradesh,52.73,23
+IR-3-O-OEM-U-0490,Vellore Institute of Technology  More Details |  |,Vellore,Tamil Nadu,52.68,24
+IR-1-O-O-U-0572,Indian Institute of Science Education & Research Kolkata  More Details |  |,Mohanpur,West Bengal,52.52,25
+IR-3-O-OEP-U-0391,Birla Institute of Technology & Science  More Details |  |,Pilani,Rajasthan,52.15,26
+IR-2-O-OE-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad  More Details |  |,Dhanbad,Jharkhand,52.04,27
+IR-1-O-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi  More Details |  |,Varanasi,Uttar Pradesh,51.85,28
+IR-1-O-O-I-1357,University of Madras  More Details |  |,Chennai,Tamil Nadu,51.52,29
+IR-3-O-OEP-U-0308,Institute of Chemical Technology  More Details |  |,Mumbai,Maharashtra,51.39,30
+IR-2-O-OE-U-0467,National Institute of Technology Tiruchirappalli  More Details |  |,Tiruchirappalli,Tamil Nadu,51.38,31
+IR-1-O-O-U-0305,Indian Institute of Science Education & Research Pune  More Details |  |,Pune,Maharashtra,51.04,32
+IR-6-O-OEMLDP-U-0078,Panjab University  More Details |  |,Chandigarh,Chandigarh,50.94,33
+IR-1-O-M-S-8972,Indian Institute of Management Calcutta  More Details |  |,Kolkata,West Bengal,50.87,34
+IR-1-O-O-U-0446,Bharath Institute of Higher Education & Research  More Details |  |,Chennai,Tamil Nadu,50.74,35
+IR-6-O-OEMALP-U-0006,Andhra University  More Details |  |,Visakhapatnam,Andhra Pradesh,50.39,36
+IR-5-O-OEMDP-U-0107,Jamia Hamdard  More Details |  |,New Delhi,Delhi,50.31,37
+IR-2-O-OD-U-0363,Siksha `O` Anusandhan  More Details |  |,Bhubaneswar,Odisha,49.59,38
+IR-2-O-OE-U-0139,Indian Institute of Technology Gandhinagar  More Details |  |,Gandhinagar,Gujarat,49.31,39
+IR-1-O-O-U-0485,Tamil Nadu Agricultural University  More Details |  |,Coimbatore,Tamil Nadu,49.22,40
+IR-1-O-O-U-0304,Homi Bhabha National Institute  More Details |  |,Mumbai,Maharashtra,48.98,41
+IR-2-O-OE-U-0357,National Institute of Technology Rourkela  More Details |  |,Rourkela,Odisha,48.62,42
+IR-1-O-C-U-0435,Alagappa University  More Details |  |,Karaikudi,Tamil Nadu,48.25,43
+IR-2-O-OE-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur  More Details |  |",Howrah,West Bengal,48.06,44
+IR-1-O-O-U-0027,Osmania University  More Details |  |,Hyderabad,Telangana,48.02,45
+IR-1-O-O-U-0056,Tezpur University  More Details |  |,Tezpur,Assam,48.0,46
+IR-1-O-O-U-0260,Kerala University  More Details |  |,Thiruvananthapuram,Kerala,47.72,47
+IR-1-O-O-U-0589,Visva Bharati  More Details |  |,Kolkata,West Bengal,47.62,48
+IR-1-O-O-U-0331,Tata Institute of Social Sciences  More Details |  |,Mumbai,Maharashtra,47.46,49
+IR-2-O-EM-I-1480,Thapar Institute of Engineering and Technology  More Details |  |,Patiala,Punjab,47.11,50
+IR-2-O-OE-U-0355,Indian Institute of Technology Bhubaneswar  More Details |  |,Bhubaneswar,Odisha,47.07,51
+IR-1-O-O-U-0262,Mahatma Gandhi University  More Details |  |,Kottayam,Kerala,46.56,52
+IR-1-O-O-U-0554,G. B. Pant Universtiy of Agriculture and Technology  More Details |  |,Pantnagar,Uttarakhand,46.56,52
+IR-4-O-OEML-U-0476,Shanmugha Arts Science Technology & Research Academy  More Details |  |,Thanjavur,Tamil Nadu,46.33,54
+IR-1-O-O-U-0377,Indian Institute of Science Education & Research Mohali  More Details |  |,Mohali,Punjab,46.24,55
+IR-1-O-O-U-0272,Indian Institute of Science Education & Research Bhopal  More Details |  |,Bhopal,Madhya Pradesh,46.17,56
+IR-2-O-OE-U-0237,National Institute of Technology Surathkal  More Details |  |,Surathkal,Karnataka,46.14,57
+IR-1-O-O-U-0254,Indian Institute of Science Education & Research Thiruvananthapuram  More Details |  |,Thiruvananthapuram,Kerala,45.97,58
+IR-2-O-OP-U-0222,JSS Academy of Higher Education and Research  More Details |  |,Mysore,Karnataka,45.76,59
+IR-1-O-O-U-0381,Punjab Agricultural University  More Details |  |,Ludhiana,Punjab,45.56,60
+IR-1-O-O-U-0052,Gauhati University  More Details |  |,Guwahati,Assam,45.44,61
+IR-3-O-ODP-I-1486,Sri Ramachandra Medical College and Research Institute  More Details |  |,Chennai,Tamil Nadu,45.29,62
+IR-5-O-OEMDP-U-0473,SRM Institute of Science and Technology  More Details |  |,Chennai,Tamil Nadu,45.17,63
+IR-3-O-OEM-C-37013,PSG College of Technology  More Details |  |,Coimbatore,Tamil Nadu,44.94,64
+IR-5-O-OEMLD-U-0356,Kalinga Institute of Industrial Technology  More Details |  |,Bhubaneswar,Odisha,44.81,65
+IR-5-O-OEMAP-U-0202,Birla Institute of Technology  More Details |  |,Ranchi,Jharkhand,44.71,66
+IR-1-O-O-U-0329,Symbiosis International  More Details |  |,Pune,Maharashtra,44.62,67
+IR-4-O-OEMA-U-0474,Sathyabama Institute of Science and Technology  More Details |  |,Chennai,Tamil Nadu,44.34,68
+IR-2-O-OE-U-0064,Indian Institute of Technology Patna  More Details |  |,Patna,Bihar,44.25,69
+IR-2-O-OD-I-1441,Saveetha Institute of Medical and Technical Sciences  More Details |  |,Chennai,Tamil Nadu,44.0,70
+IR-1-O-O-U-0196,University of Kashmir  More Details |  |,Srinagar,Jammu and Kashmir,43.96,71
+IR-1-O-O-U-0642,Shiv Nadar University  More Details |  |,Chithera,Uttar Pradesh,43.68,72
+IR-1-O-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering  More Details |  |,Kancheepuram,Tamil Nadu,43.6,73
+IR-2-O-OE-U-0037,Sri Venkateswara University  More Details |  |,Tirupati,Andhra Pradesh,43.44,74
+IR-1-O-D-C-45515,PSG Institute of Medical Sciences & Research  More Details |  |,Coimbatore,Tamil Nadu,43.24,75
+IR-1-O-O-U-0159,Chaudhary Charan Singh Haryana Agricultural University  More Details |  |,Hisar,Haryana,43.21,76
+IR-3-O-OML-U-0195,University of Jammu  More Details |  |,Jammu Tawi,Jammu and Kashmir,43.19,77
+IR-2-O-OE-U-0025,National Institute of Technology Warangal  More Details |  |,Warangal,Telangana,43.16,78
+IR-2-O-OD-I-1110,Dr. D. Y. Patil Vidyapeeth  More Details |  |,Pune,Maharashtra,43.15,79
+IR-6-O-OEMALP-U-0497,Amity University  More Details |  |,Gautam Budh Nagar,Uttar Pradesh,42.99,80
+IR-1-O-O-U-0463,Madurai Kamraj University  More Details |  |,Madurai,Tamil Nadu,42.98,81
+IR-6-O-OEMAPC-N-10,SVKM`s Narsee Monjee Institute of Management Studies  More Details |  |,Mumbai,Maharashtra,42.8,82
+IR-2-O-EM-U-0020,Koneru Lakshmaiah Education Foundation University  More Details |  |,Vaddeswaram,Andhra Pradesh,42.78,83
+IR-1-O-O-U-0225,KLE Academy of Higher Education and Research  More Details |  |,Belagavi,Karnataka,42.76,84
+IR-1-O-O-U-0246,University of Agricultural Sciences  More Details |  |,Dharwad,Karnataka,42.55,85
+IR-3-O-OEM-U-0369,Pondicherry University  More Details |  |,Puducherry,Pondicherry,42.36,86
+IR-1-O-O-U-0376,Guru Nanak Dev University  More Details |  |,Amritsar,Punjab,42.36,86
+IR-1-O-O-U-0341,North Eastern Hill University  More Details |  |,Shillong,Meghalaya,42.34,88
+IR-1-O-D-U-0036,Sri Venkateswara Institute of Medical Sciences  More Details |  |,Tirupati,Andhra Pradesh,42.33,89
+IR-2-O-OE-U-0507,Dayalbagh Educational Institute  More Details |  |,Agra,Uttar Pradesh,41.95,90
+IR-4-O-OEMP-U-0389,Banasthali Vidyapith  More Details |  |,Banasthali,Rajasthan,41.88,91
+IR-1-O-O-U-0487,Tamil Nadu Veterinary & Animal Sciences University  More Details |  |,Chennai,Tamil Nadu,41.73,92
+IR-1-O-O-I-1361,Bharati Vidyapeeth  More Details |  |,Pune,Maharashtra,41.71,93
+IR-1-O-O-U-0448,Bharathidasan University  More Details |  |,Tiruchirappalli,Tamil Nadu,41.63,94
+IR-3-O-OEA-C-26794,Thiagarajar College of Engineering  More Details |  |,Madurai,Tamil Nadu,41.41,95
+IR-1-O-E-C-41593,College of Engineering  More Details |  |,Pune,Maharashtra,40.74,96
+IR-1-O-D-C-47762,Mahatma Gandhi Medical College and Research Institute  More Details |  |,Puducherry,Pondicherry,40.72,97
+IR-1-O-O-U-0121,Goa University  More Details |  |,Goa,Goa,40.66,98
+IR-1-O-O-U-0253,Cochin University of Science and Technology  More Details |  |,Cochin,Kerala,40.53,99
+IR-2-O-OE-U-0098,Delhi Technological University  More Details |  |,New Delhi,Delhi,40.52,100

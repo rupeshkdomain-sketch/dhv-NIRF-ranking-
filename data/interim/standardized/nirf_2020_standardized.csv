@@ -1,0 +1,102 @@
+year,category,original_category,institution_id,raw_name,city,raw_state,score,rank,rank_band,missing_fields,institution,state
+2020,Overall,Overall,NIRF-00094,Indian Institute of Technology Madras,Chennai,Tamil Nadu,85.31,1,,,Indian Institute of Technology Madras,Tamil Nadu
+2020,Overall,Overall,NIRF-00067,Indian Institute of Science,Bengaluru,Karnataka,84.18,2,,,Indian Institute of Science,Karnataka
+2020,Overall,Overall,NIRF-00084,Indian Institute of Technology Delhi,New Delhi,Delhi,81.33,3,,,Indian Institute of Technology Delhi,Delhi
+2020,Overall,Overall,NIRF-00083,Indian Institute of Technology Bombay,Mumbai,Maharashtra,80.75,4,,,Indian Institute of Technology Bombay,Maharashtra
+2020,Overall,Overall,NIRF-00093,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,75.85,5,,,Indian Institute of Technology Kharagpur,West Bengal
+2020,Overall,Overall,NIRF-00092,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,74.99,6,,,Indian Institute of Technology Kanpur,Uttar Pradesh
+2020,Overall,Overall,NIRF-00086,Indian Institute of Technology Guwahati,Guwahati,Assam,68.81,7,,,Indian Institute of Technology Guwahati,Assam
+2020,Overall,Overall,NIRF-00110,Jawaharlal Nehru University,New Delhi,Delhi,68.76,8,,,Jawaharlal Nehru University,Delhi
+2020,Overall,Overall,NIRF-00097,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,68.48,9,,,Indian Institute of Technology Roorkee,Uttarakhand
+2020,Overall,Overall,NIRF-00018,Banaras Hindu University,Varanasi,Uttar Pradesh,62.03,10,,,Banaras Hindu University,Uttar Pradesh
+2020,Overall,Overall,NIRF-00030,Calcutta University,Kolkata,West Bengal,61.01,11,,,Calcutta University,West Bengal
+2020,Overall,Overall,NIRF-00102,Jadavpur University,Kolkata,West Bengal,60.77,12,,,Jadavpur University,West Bengal
+2020,Overall,Overall,NIRF-00011,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,60.74,13,,,Amrita Vishwa Vidyapeetham,Tamil Nadu
+2020,Overall,Overall,NIRF-00127,Manipal Academy of Higher Education,Manipal,Karnataka,59.96,14,,,Manipal Academy of Higher Education,Karnataka
+2020,Overall,Overall,NIRF-00191,University of Hyderabad,Hyderabad,Telangana,59.92,15,,,University of Hyderabad,Telangana
+2020,Overall,Overall,NIRF-00105,Jamia Millia Islamia,New Delhi,Delhi,59.85,16,,,Jamia Millia Islamia,Delhi
+2020,Overall,Overall,NIRF-00087,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,59.59,17,,,Indian Institute of Technology Hyderabad,Telangana
+2020,Overall,Overall,NIRF-00190,University of Delhi,Delhi,Delhi,58.97,18,,,University of Delhi,Delhi
+2020,Overall,Overall,NIRF-00161,Savitribai Phule Pune University,Pune,Maharashtra,58.77,19,,,Savitribai Phule Pune University,Maharashtra
+2020,Overall,Overall,NIRF-00015,Anna University,Chennai,Tamil Nadu,58.1,20,,,Anna University,Tamil Nadu
+2020,Overall,Overall,NIRF-00023,Bharathiar University,Coimbatore,Tamil Nadu,57.32,21,,,Bharathiar University,Tamil Nadu
+2020,Overall,Overall,NIRF-00088,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,56.05,22,,,Indian Institute of Technology (Indian School of Mines),Jharkhand
+2020,Overall,Overall,NIRF-00090,Indian Institute of Technology Indore,Indore,Madhya Pradesh,55.94,23,,,Indian Institute of Technology Indore,Madhya Pradesh
+2020,Overall,Overall,NIRF-00143,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,55.92,24,,,National Institute of Technology Tiruchirappalli,Tamil Nadu
+2020,Overall,Overall,NIRF-00077,Indian Institute of Science Education & Research Pune,Pune,Maharashtra,55.43,25,,,Indian Institute of Science Education & Research Pune,Maharashtra
+2020,Overall,Overall,NIRF-00081,Indian Institute of Technology (BHU) Varanasi,Varanasi,Uttar Pradesh,54.82,26,,,Indian Institute of Technology (BHU) Varanasi,Uttar Pradesh
+2020,Overall,Overall,NIRF-00028,Birla Institute of Technology & Science,Pilani,Rajasthan,54.13,27,,,Birla Institute of Technology & Science,Rajasthan
+2020,Overall,Overall,NIRF-00197,Vellore Institute of Technology,Vellore,Tamil Nadu,53.89,28,,,Vellore Institute of Technology,Tamil Nadu
+2020,Overall,Overall,NIRF-00075,Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,53.49,29,,,Indian Institute of Science Education & Research Kolkata,West Bengal
+2020,Overall,Overall,NIRF-00054,Homi Bhabha National Institute,Mumbai,Maharashtra,53.2,30,,,Homi Bhabha National Institute,Maharashtra
+2020,Overall,Overall,NIRF-00003,Aligarh Muslim University,Aligarh,Uttar Pradesh,52.54,31,,,Aligarh Muslim University,Uttar Pradesh
+2020,Overall,Overall,NIRF-00140,National Institute of Technology Rourkela,Rourkela,Odisha,51.87,32,,,National Institute of Technology Rourkela,Odisha
+2020,Overall,Overall,NIRF-00138,National Institute of Technology Karnataka,Surathkal,Karnataka,51.86,33,,,National Institute of Technology Karnataka,Karnataka
+2020,Overall,Overall,NIRF-00100,Institute of Chemical Technology,Mumbai,Maharashtra,51.7,34,,,Institute of Chemical Technology,Maharashtra
+2020,Overall,Overall,NIRF-00085,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,51.49,35,,,Indian Institute of Technology Gandhinagar,Gujarat
+2020,Overall,Overall,NIRF-00013,Andhra University,Visakhapatnam,Andhra Pradesh,51.24,36,,,Andhra University,Andhra Pradesh
+2020,Overall,Overall,NIRF-00104,Jamia Hamdard,New Delhi,Delhi,51.02,37,,,Jamia Hamdard,Delhi
+2020,Overall,Overall,NIRF-00169,Siksha `O` Anusandhan,Bhubaneswar,Odisha,50.97,38,,,Siksha `O` Anusandhan,Odisha
+2020,Overall,Overall,NIRF-00098,Indian Institute of Technology Ropar,Rupnagar,Punjab,50.92,39,,,Indian Institute of Technology Ropar,Punjab
+2020,Overall,Overall,NIRF-00074,Indian Institute of Science Education & Research Bhopal,Bhopal,Madhya Pradesh,50.83,40,,,Indian Institute of Science Education & Research Bhopal,Madhya Pradesh
+2020,Overall,Overall,NIRF-00194,University of Madras,Chennai,Tamil Nadu,50.76,41,,,University of Madras,Tamil Nadu
+2020,Overall,Overall,NIRF-00114,Kerala University,Thiruvananthapuram,Kerala,50.71,42,,,Kerala University,Kerala
+2020,Overall,Overall,NIRF-00057,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,50.41,43,,,Indian Institute of Engineering Science and Technology,West Bengal
+2020,Overall,Overall,NIRF-00148,Panjab University,Chandigarh,Chandigarh,50.24,44,,,Panjab University,Chandigarh
+2020,Overall,Overall,NIRF-00113,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,50.24,44,,,Kalinga Institute of Industrial Technology,Odisha
+2020,Overall,Overall,NIRF-00144,National Institute of Technology Warangal,Warangal,Telangana,49.82,46,,,National Institute of Technology Warangal,Telangana
+2020,Overall,Overall,NIRF-00133,Mysore University,Mysuru,Karnataka,49.75,47,,,Mysore University,Karnataka
+2020,Overall,Overall,NIRF-00164,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,49.4,48,,,Shanmugha Arts Science Technology & Research Academy,Tamil Nadu
+2020,Overall,Overall,NIRF-00124,Mahatma Gandhi University,Kottayam,Kerala,49.29,49,,,Mahatma Gandhi University,Kerala
+2020,Overall,Overall,NIRF-00115,King George`s Medical University,Lucknow,Uttar Pradesh,48.91,50,,,King George`s Medical University,Uttar Pradesh
+2020,Overall,Overall,NIRF-00171,Sri Ramachandra Institute of Higher Education And Research,Chennai,Tamil Nadu,48.59,51,,,Sri Ramachandra Institute of Higher Education And Research,Tamil Nadu
+2020,Overall,Overall,NIRF-00186,Thapar Institute of Engineering & Technology,Patiala,Punjab,48.59,51,,,Thapar Institute of Engineering & Technology,Punjab
+2020,Overall,Overall,NIRF-00147,Osmania University,Hyderabad,Telangana,48.54,53,,,Osmania University,Telangana
+2020,Overall,Overall,NIRF-00096,Indian Institute of Technology Patna,Patna,Bihar,48.09,54,,,Indian Institute of Technology Patna,Bihar
+2020,Overall,Overall,NIRF-00111,JSS Academy of Higher Education and Research,Mysuru,Karnataka,48.09,54,,,JSS Academy of Higher Education and Research,Karnataka
+2020,Overall,Overall,NIRF-00082,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,47.96,56,,,Indian Institute of Technology Bhubaneswar,Odisha
+2020,Overall,Overall,NIRF-00182,Tata Institute of Social Sciences,Mumbai,Maharashtra,47.45,57,,,TATA Institute of Social Sciences,Maharashtra
+2020,Overall,Overall,NIRF-00157,S. R. M. Institute of Science and Technology,Chennai,Tamil Nadu,47.27,58,,,S. R. M. Institute of Science and Technology,Tamil Nadu
+2020,Overall,Overall,NIRF-00076,Indian Institute of Science Education & Research Mohali,Mohali,Punjab,47.19,59,,,Indian Institute of Science Education & Research Mohali,Punjab
+2020,Overall,Overall,NIRF-00050,Gujarat University,Ahmedabad,Gujarat,47.1,60,,,Gujarat University,Gujarat
+2020,Overall,Overall,NIRF-00159,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,47.03,61,,,Sathyabama Institute of Science and Technology,Tamil Nadu
+2020,Overall,Overall,NIRF-00040,Delhi Technological University,New Delhi,Delhi,46.89,62,,,Delhi Technological University,Delhi
+2020,Overall,Overall,NIRF-00010,Amity University Noida,Gautam Budh Nagar,Uttar Pradesh,46.88,63,,,Amity University Noida,Uttar Pradesh
+2020,Overall,Overall,NIRF-00002,Alagappa University,Karaikudi,Tamil Nadu,46.85,64,,,Alagappa University,Tamil Nadu
+2020,Overall,Overall,NIRF-00183,Tezpur University,Tezpur,Assam,46.83,65,,,Tezpur University,Assam
+2020,Overall,Overall,NIRF-00160,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,46.81,66,,,Saveetha Institute of Medical and Technical Sciences,Tamil Nadu
+2020,Overall,Overall,NIRF-00095,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,46.56,67,,,Indian Institute of Technology Mandi,Himachal Pradesh
+2020,Overall,Overall,NIRF-00176,Sri Venkateswara University,Tirupati,Andhra Pradesh,46.14,68,,,Sri Venkateswara University,Andhra Pradesh
+2020,Overall,Overall,NIRF-00198,Visva Bharati,Santiniketan,West Bengal,45.95,69,,,Visva Bharati,West Bengal
+2020,Overall,Overall,NIRF-00117,Koneru Lakshmaiah Education Foundation University,Vaddeswaram,Andhra Pradesh,45.89,70,,,Koneru Lakshmaiah Education Foundation University,Andhra Pradesh
+2020,Overall,Overall,NIRF-00126,Malaviya National Institute of Technology,Jaipur,Rajasthan,45.65,71,,,Malaviya National Institute of Technology,Rajasthan
+2020,Overall,Overall,NIRF-00047,Gauhati University,Guwahati,Assam,45.48,72,,,Gauhati University,Assam
+2020,Overall,Overall,NIRF-00178,Symbiosis International,Pune,Maharashtra,45.43,73,,,Symbiosis International,Maharashtra
+2020,Overall,Overall,NIRF-00146,North Eastern Hill University,Shillong,Meghalaya,45.31,74,,,North Eastern Hill University,Meghalaya
+2020,Overall,Overall,NIRF-00043,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,45.08,75,,,Dr. D. Y. Patil Vidyapeeth,Maharashtra
+2020,Overall,Overall,NIRF-00031,Calicut University,Malappuram,Kerala,44.71,76,,,Calicut University,Kerala
+2020,Overall,Overall,NIRF-00024,Bharathidasan University,Tiruchirappalli,Tamil Nadu,44.7,77,,,Bharathidasan University,Tamil Nadu
+2020,Overall,Overall,NIRF-00193,University of Kashmir,Srinagar,Jammu and Kashmir,44.67,78,,,University of Kashmir,Jammu and Kashmir
+2020,Overall,Overall,NIRF-00019,Banasthali Vidyapith,Banasthali,Rajasthan,44.61,79,,,Banasthali Vidyapith,Rajasthan
+2020,Overall,Overall,NIRF-00078,Indian Institute of Science Education & Research Thiruvananthapuram,Thiruvananthapuram,Kerala,44.53,80,,,Indian Institute of Science Education & Research Thiruvananthapuram,Kerala
+2020,Overall,Overall,NIRF-00150,Pondicherry University,Puducherry,Pondicherry,44.48,81,,,Pondicherry University,Puducherry
+2020,Overall,Overall,NIRF-00167,Shiv Nadar University,Dadri,Uttar Pradesh,44.47,82,,,Shiv Nadar University,Uttar Pradesh
+2020,Overall,Overall,NIRF-00174,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,44.42,83,,,Sri Sivasubramaniya Nadar College of Engineering,Tamil Nadu
+2020,Overall,Overall,NIRF-00122,Madurai Kamaraj University,Madurai,Tamil Nadu,44.27,84,,,Madurai Kamaraj University,Tamil Nadu
+2020,Overall,Overall,NIRF-00026,Birla Institute of Technology,Ranchi,Jharkhand,44.17,85,,,Birla Institute of Technology,Jharkhand
+2020,Overall,Overall,NIRF-00152,PSG College of Technology,Coimbatore,Tamil Nadu,44.17,85,,,PSG College of Technology,Tamil Nadu
+2020,Overall,Overall,NIRF-00022,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,44.03,87,,,Bharath Institute of Higher Education & Research,Tamil Nadu
+2020,Overall,Overall,NIRF-00053,Guru Nanak Dev University,Amritsar,Punjab,43.81,88,,,Guru Nanak Dev University,Punjab
+2020,Overall,Overall,NIRF-00035,Cochin University of Science and Technology,Cochin,Kerala,43.71,89,,,Cochin University of Science and Technology,Kerala
+2020,Overall,Overall,NIRF-00192,University of Jammu,Jammu,Jammu and Kashmir,43.61,90,,,University of Jammu,Jammu and Kashmir
+2020,Overall,Overall,NIRF-00162,Sawai Man Singh Medical College,Jaipur,Rajasthan,43.5,91,,,Sawai Man Singh Medical College,Rajasthan
+2020,Overall,Overall,NIRF-00177,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,43.07,92,,,SVKM`s Narsee Monjee Institute of Management Studies,Maharashtra
+2020,Overall,Overall,NIRF-00131,Motilal Nehru National Institute of Technology,Allahabad,Uttar Pradesh,42.87,93,,,Motilal Nehru National Institute of Technology,Uttar Pradesh
+2020,Overall,Overall,NIRF-00141,National Institute of Technology Silchar,Silchar,Assam,42.76,94,,,National Institute of Technology Silchar,Assam
+2020,Overall,Overall,NIRF-00132,Mumbai University,Mumbai,Maharashtra,42.45,95,,,Mumbai University,Maharashtra
+2020,Overall,Overall,NIRF-00137,National Institute of Technology Durgapur,Durgapur,West Bengal,42.26,96,,,National Institute of Technology Durgapur,West Bengal
+2020,Overall,Overall,NIRF-00038,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,42.24,97,,,Datta Meghe Institute of Medical Sciences,Maharashtra
+2020,Overall,Overall,NIRF-00025,Bharati Vidyapeeth,Pune,Maharashtra,42.23,98,,,Bharati Vidyapeeth,Maharashtra
+2020,Overall,Overall,NIRF-00120,Lovely Professional University,Phagwara,Punjab,41.81,99,,,Lovely Professional University,Punjab
+2020,Overall,Overall,NIRF-00130,Mizoram University,Aizawl,Mizoram,41.8,100,,,Mizoram University,Mizoram
+2020,Overall,Overall,NIRF-00020,Bangalore University,Bengaluru,Karnataka,41.8,100,,,Bangalore University,Karnataka

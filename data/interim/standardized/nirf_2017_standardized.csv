@@ -1,0 +1,101 @@
+year,category,original_category,institution_id,raw_name,city,raw_state,score,rank,rank_band,missing_fields,institution,state
+2017,Overall,Overall,NIRF-00068,Indian Institute of Science Bangalore,Bengaluru,Karnataka,83.28,1,,,Indian Institute of Science Bangalore,Karnataka
+2017,Overall,Overall,NIRF-00094,Indian Institute of Technology Madras,Chennai,Tamil Nadu,73.97,2,,,Indian Institute of Technology Madras,Tamil Nadu
+2017,Overall,Overall,NIRF-00083,Indian Institute of Technology Bombay,Mumbai,Maharashtra,71.78,3,,,Indian Institute of Technology Bombay,Maharashtra
+2017,Overall,Overall,NIRF-00093,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,68.43,4,,,Indian Institute of Technology Kharagpur,West Bengal
+2017,Overall,Overall,NIRF-00084,Indian Institute of Technology Delhi,New Delhi,Delhi,64.18,5,,,Indian Institute of Technology Delhi,Delhi
+2017,Overall,Overall,NIRF-00110,Jawaharlal Nehru University,New Delhi,Delhi,61.53,6,,,Jawaharlal Nehru University,Delhi
+2017,Overall,Overall,NIRF-00092,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,60.69,7,,,Indian Institute of Technology Kanpur,Uttar Pradesh
+2017,Overall,Overall,NIRF-00086,Indian Institute of Technology Guwahati,Guwahati,Assam,60.37,8,,,Indian Institute of Technology Guwahati,Assam
+2017,Overall,Overall,NIRF-00097,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,59.84,9,,,Indian Institute of Technology Roorkee,Uttarakhand
+2017,Overall,Overall,NIRF-00018,Banaras Hindu University,Varanasi,Uttar Pradesh,58.92,10,,,Banaras Hindu University,Uttar Pradesh
+2017,Overall,Overall,NIRF-00109,Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru,Karnataka,58.25,11,,,Jawaharlal Nehru Centre for Advanced Scientific Research,Karnataka
+2017,Overall,Overall,NIRF-00102,Jadavpur University,Kolkata,West Bengal,57.32,12,,,Jadavpur University,West Bengal
+2017,Overall,Overall,NIRF-00015,Anna University,Chennai,Tamil Nadu,56.5,13,,,Anna University,Tamil Nadu
+2017,Overall,Overall,NIRF-00191,University of Hyderabad,Hyderabad,Telangana,56.3,14,,,University of Hyderabad,Telangana
+2017,Overall,Overall,NIRF-00190,University of Delhi,Delhi,Delhi,55.37,15,,,University of Delhi,Delhi
+2017,Overall,Overall,NIRF-00011,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,54.7,16,,,Amrita Vishwa Vidyapeetham,Tamil Nadu
+2017,Overall,Overall,NIRF-00059,Indian Institute of Management Ahmedabad,Ahmedabad,Gujarat,54.27,17,,,Indian Institute of Management Ahmedabad,Gujarat
+2017,Overall,Overall,NIRF-00161,Savitribai Phule Pune University,Pune,Maharashtra,52.81,18,,,Savitribai Phule Pune University,Maharashtra
+2017,Overall,Overall,NIRF-00003,Aligarh Muslim University,Aligarh,Uttar Pradesh,52.74,19,,,Aligarh Muslim University,Uttar Pradesh
+2017,Overall,Overall,NIRF-00105,Jamia Millia Islamia,New Delhi,Delhi,51.75,20,,,Jamia Millia Islamia,Delhi
+2017,Overall,Overall,NIRF-00029,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,51.46,21,,,Birla Institute of Technology & Science - Pilani,Rajasthan
+2017,Overall,Overall,NIRF-00197,Vellore Institute of Technology,Vellore,Tamil Nadu,51.36,22,,,Vellore Institute of Technology,Tamil Nadu
+2017,Overall,Overall,NIRF-00055,Indian Agricultural Research Institute,New Delhi,Delhi,51.2,23,,,Indian Agricultural Research Institute,Delhi
+2017,Overall,Overall,NIRF-00090,Indian Institute of Technology Indore,Indore,Madhya Pradesh,50.23,24,,,Indian Institute of Technology Indore,Madhya Pradesh
+2017,Overall,Overall,NIRF-00060,Indian Institute of Management Bangalore,Bengaluru,Karnataka,49.26,25,,,Indian Institute of Management Bangalore,Karnataka
+2017,Overall,Overall,NIRF-00087,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,49.07,26,,,Indian Institute of Technology Hyderabad,Telangana
+2017,Overall,Overall,NIRF-00030,Calcutta University,Kolkata,West Bengal,48.9,27,,,Calcutta University,West Bengal
+2017,Overall,Overall,NIRF-00180,Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,48.84,28,,,Tamil Nadu Agricultural University,Tamil Nadu
+2017,Overall,Overall,NIRF-00077,"Indian Institute of Science Education & Research, Pune",Pune,Maharashtra,48.28,29,,,Indian Institute of Science Education & Research Pune,Maharashtra
+2017,Overall,Overall,NIRF-00128,Manipal Academy of Higher Education-Manipal,Manipal,Karnataka,48.27,30,,,"Manipal Academy of Higher Education, Manipal",Karnataka
+2017,Overall,Overall,NIRF-00198,Visva Bharati,Kolkata,West Bengal,48.19,31,,,Visva Bharati,West Bengal
+2017,Overall,Overall,NIRF-00098,Indian Institute of Technology Ropar,Rupnagar,Punjab,47.84,32,,,Indian Institute of Technology Ropar,Punjab
+2017,Overall,Overall,NIRF-00170,Siksha`O` Anusandhan University,Bhubaneswar,Odisha,46.72,33,,,Siksha`O` Anusandhan University,Odisha
+2017,Overall,Overall,NIRF-00143,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,46.57,34,,,National Institute of Technology Tiruchirappalli,Tamil Nadu
+2017,Overall,Overall,NIRF-00054,Homi Bhabha National Institute,Mumbai,Maharashtra,46.45,35,,,Homi Bhabha National Institute,Maharashtra
+2017,Overall,Overall,NIRF-00022,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,46.45,35,,,Bharath Institute of Higher Education & Research,Tamil Nadu
+2017,Overall,Overall,NIRF-00095,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,45.62,37,,,Indian Institute of Technology Mandi,Himachal Pradesh
+2017,Overall,Overall,NIRF-00147,Osmania University,Hyderabad,Telangana,45.52,38,,,Osmania University,Telangana
+2017,Overall,Overall,NIRF-00061,Indian Institute of Management Calcutta,Kolkata,West Bengal,45.17,39,,,Indian Institute of Management Calcutta,West Bengal
+2017,Overall,Overall,NIRF-00155,"Punjab Agricultural University, Ludhiana",Ludhiana,Punjab,44.99,40,,,"Punjab Agricultural University, Ludhiana",Punjab
+2017,Overall,Overall,NIRF-00100,Institute of Chemical Technology,Mumbai,Maharashtra,44.95,41,,,Institute of Chemical Technology,Maharashtra
+2017,Overall,Overall,NIRF-00104,Jamia Hamdard,New Delhi,Delhi,44.84,42,,,Jamia Hamdard,Delhi
+2017,Overall,Overall,NIRF-00047,Gauhati University,Guwahati,Assam,44.42,43,,,Gauhati University,Assam
+2017,Overall,Overall,NIRF-00075,"Indian Institute of Science Education & Research, Kolkata",Mohanpur,West Bengal,44.38,44,,,Indian Institute of Science Education & Research Kolkata,West Bengal
+2017,Overall,Overall,NIRF-00023,Bharathiar University,Coimbatore,Tamil Nadu,44.29,45,,,Bharathiar University,Tamil Nadu
+2017,Overall,Overall,NIRF-00140,National Institute of Technology Rourkela,Rourkela,Odisha,44.02,46,,,National Institute of Technology Rourkela,Odisha
+2017,Overall,Overall,NIRF-00114,Kerala University,Thiruvananthapuram,Kerala,43.95,47,,,Kerala University,Kerala
+2017,Overall,Overall,NIRF-00183,Tezpur University,Tezpur,Assam,43.78,48,,,Tezpur University,Assam
+2017,Overall,Overall,NIRF-00182,TATA Institute of Social Sciences,Mumbai,Maharashtra,43.71,49,,,TATA Institute of Social Sciences,Maharashtra
+2017,Overall,Overall,NIRF-00165,Shanmugha Arts Science Technology & Research Academy (SASTRA),Thanjavur,Tamil Nadu,43.5,50,,,Shanmugha Arts Science Technology & Research Academy (SASTRA),Tamil Nadu
+2017,Overall,Overall,NIRF-00064,Indian Institute of Management Lucknow,Lucknow,Uttar Pradesh,43.35,51,,,Indian Institute of Management Lucknow,Uttar Pradesh
+2017,Overall,Overall,NIRF-00076,"Indian Institute of Science Education & Research, Mohali",Mohali,Punjab,43.27,52,,,Indian Institute of Science Education & Research Mohali,Punjab
+2017,Overall,Overall,NIRF-00088,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,43.21,53,,,Indian Institute of Technology (Indian School of Mines),Jharkhand
+2017,Overall,Overall,NIRF-00148,Panjab University,Chandigarh,Chandigarh,43.13,54,,,Panjab University,Chandigarh
+2017,Overall,Overall,NIRF-00157,S.R.M Institute of Science and Technology,Chennai,Tamil Nadu,43.07,55,,,S. R. M. Institute of Science and Technology,Tamil Nadu
+2017,Overall,Overall,NIRF-00079,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,43.06,56,,,Indian Institute of Space Science and Technology,Kerala
+2017,Overall,Overall,NIRF-00133,Mysore University,Mysore,Karnataka,42.83,57,,,Mysore University,Karnataka
+2017,Overall,Overall,NIRF-00135,"National Institute of Pharmaceutical Education and Research, Hyderabad",Hyderabad,Telangana,42.74,58,,,"National Institute of Pharmaceutical Education and Research, Hyderabad",Telangana
+2017,Overall,Overall,NIRF-00150,Pondicherry University,Puducherry,Pondicherry,42.7,59,,,Pondicherry University,Puducherry
+2017,Overall,Overall,NIRF-00181,Tamil Nadu Veterinary & Animal Sciences University,Chennai,Tamil Nadu,42.48,60,,,Tamil Nadu Veterinary & Animal Sciences University,Tamil Nadu
+2017,Overall,Overall,NIRF-00173,Sri Ramachandra University,Chennai,Tamil Nadu,42.46,61,,,Sri Ramachandra University,Tamil Nadu
+2017,Overall,Overall,NIRF-00012,Anand Agricultural University,Anand,Gujarat,42.26,62,,,Anand Agricultural University,Gujarat
+2017,Overall,Overall,NIRF-00066,Indian Institute of Management Udaipur,Udaipur,Rajasthan,42.15,63,,,Indian Institute of Management Udaipur,Rajasthan
+2017,Overall,Overall,NIRF-00194,University of Madras,Chennai,Tamil Nadu,41.85,64,,,University of Madras,Tamil Nadu
+2017,Overall,Overall,NIRF-00142,National Institute of Technology Surathkal,Surathkal,Karnataka,41.8,65,,,National Institute of Technology Surathkal,Karnataka
+2017,Overall,Overall,NIRF-00082,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,41.75,66,,,Indian Institute of Technology Bhubaneswar,Odisha
+2017,Overall,Overall,NIRF-00065,Indian Institute of Management Tiruchirappalli,Tiruchirappalli,Tamil Nadu,41.73,67,,,Indian Institute of Management Tiruchirappalli,Tamil Nadu
+2017,Overall,Overall,NIRF-00176,Sri Venkateswara University,Tirupati,Andhra Pradesh,41.48,68,,,Sri Venkateswara University,Andhra Pradesh
+2017,Overall,Overall,NIRF-00013,Andhra University,Visakhapatnam,Andhra Pradesh,41.38,69,,,Andhra University,Andhra Pradesh
+2017,Overall,Overall,NIRF-00080,"Indian Institute of Technology (Banaras Hindu University), Varanasi",Varanasi,Uttar Pradesh,41.37,70,,,Indian Institute of Technology (Banaras Hindu University) Varanasi,Uttar Pradesh
+2017,Overall,Overall,NIRF-00062,Indian Institute of Management Kashipur,Kashipur,Uttarakhand,41.36,71,,,Indian Institute of Management Kashipur,Uttarakhand
+2017,Overall,Overall,NIRF-00159,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,41.3,72,,,Sathyabama Institute of Science and Technology,Tamil Nadu
+2017,Overall,Overall,NIRF-00058,"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,West Bengal,41.28,73,,,"Indian Institute of Engineering Science and Technology, Shibpur",West Bengal
+2017,Overall,Overall,NIRF-00103,Jagadguru Sri Shivarathreeshwara University,Mysore,Karnataka,41.18,74,,,Jagadguru Sri Shivarathreeshwara University,Karnataka
+2017,Overall,Overall,NIRF-00187,Thapar University,Patiala,Punjab,40.78,75,,,Thapar University,Punjab
+2017,Overall,Overall,NIRF-00044,Dr. D. Y. Patil Vidyapeeth Pune,Pune,Maharashtra,40.59,76,,,Dr. D. Y. Patil Vidyapeeth Pune,Maharashtra
+2017,Overall,Overall,NIRF-00146,North Eastern Hill University,Shillong,Meghalaya,40.51,77,,,North Eastern Hill University,Meghalaya
+2017,Overall,Overall,NIRF-00085,Indian Institute of Technology Gandhinagar,Ahmedabad,Gujarat,40.48,78,,,Indian Institute of Technology Gandhinagar,Gujarat
+2017,Overall,Overall,NIRF-00113,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,40.47,79,,,Kalinga Institute of Industrial Technology,Odisha
+2017,Overall,Overall,NIRF-00174,Sri Sivasubrmaniya Nadar College of Engineering,Kalavakkam,Tamil Nadu,40.31,80,,,Sri Sivasubramaniya Nadar College of Engineering,Tamil Nadu
+2017,Overall,Overall,NIRF-00051,Guru Angad Dev Veterinary & Animal Sciences University,Ludhiana,Punjab,40.1,81,,,Guru Angad Dev Veterinary & Animal Sciences University,Punjab
+2017,Overall,Overall,NIRF-00144,National Institute of Technology Warangal,Warangal,Telangana,40.05,82,,,National Institute of Technology Warangal,Telangana
+2017,Overall,Overall,NIRF-00096,Indian Institute of Technology Patna,Patna,Bihar,39.87,83,,,Indian Institute of Technology Patna,Bihar
+2017,Overall,Overall,NIRF-00045,Dr. Y.S.Parmar University of Horticulture & Forestry,Solan,Himachal Pradesh,39.54,84,,,Dr. Y.S.Parmar University of Horticulture & Forestry,Himachal Pradesh
+2017,Overall,Overall,NIRF-00063,Indian Institute of Management Kozhikode,Kozhikode,Kerala,39.2,85,,,Indian Institute of Management Kozhikode,Kerala
+2017,Overall,Overall,NIRF-00009,AMITY University,Gautam Budh Nagar,Uttar Pradesh,39.17,86,,,AMITY University,Uttar Pradesh
+2017,Overall,Overall,NIRF-00056,Indian Institute of Crop Processing Technology,Thanjavur,Tamil Nadu,39.15,87,,,Indian Institute of Crop Processing Technology,Tamil Nadu
+2017,Overall,Overall,NIRF-00152,PSG College of Technology,Coimbatore,Tamil Nadu,39.07,88,,,PSG College of Technology,Tamil Nadu
+2017,Overall,Overall,NIRF-00019,Banasthali Vidyapith,Banasthali,Rajasthan,38.74,89,,,Banasthali Vidyapith,Rajasthan
+2017,Overall,Overall,NIRF-00025,Bharati Vidyapeeth,Pune,Maharashtra,38.73,90,,,Bharati Vidyapeeth,Maharashtra
+2017,Overall,Overall,NIRF-00160,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,38.68,91,,,Saveetha Institute of Medical and Technical Sciences,Tamil Nadu
+2017,Overall,Overall,NIRF-00016,Annamalai University,Annamalainagar,Tamil Nadu,38.59,92,,,Annamalai University,Tamil Nadu
+2017,Overall,Overall,NIRF-00031,Calicut University,Calicut,Kerala,38.45,93,,,Calicut University,Kerala
+2017,Overall,Overall,NIRF-00130,Mizoram University,Aizwal,Mizoram,38.36,94,,,Mizoram University,Mizoram
+2017,Overall,Overall,NIRF-00119,Kurukshetra University,Kurushetra,Haryana,38.26,95,,,Kurukshetra University,Haryana
+2017,Overall,Overall,NIRF-00167,Shiv Nadar University,Chithera,Uttar Pradesh,37.95,96,,,Shiv Nadar University,Uttar Pradesh
+2017,Overall,Overall,NIRF-00179,Symbiosis International University,Pune,Maharashtra,37.67,97,,,Symbiosis International University,Maharashtra
+2017,Overall,Overall,NIRF-00074,"Indian Institute of Science Education & Research, Bhopal",Bhopal,Madhya Pradesh,37.32,98,,,Indian Institute of Science Education & Research Bhopal,Madhya Pradesh
+2017,Overall,Overall,NIRF-00156,Rajiv Gandhi Indian Institute of Management,Shillong,Meghalaya,37.28,99,,,Rajiv Gandhi Indian Institute of Management,Meghalaya
+2017,Overall,Overall,NIRF-00116,KLE Academy of Higher Education and Research,Belagavi,Karnataka,37.25,100,,,KLE Academy of Higher Education and Research,Karnataka

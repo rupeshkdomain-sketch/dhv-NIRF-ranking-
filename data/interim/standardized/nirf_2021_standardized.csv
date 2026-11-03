@@ -1,0 +1,101 @@
+year,category,original_category,institution_id,raw_name,city,raw_state,score,rank,rank_band,missing_fields,institution,state
+2021,Overall,Overall,NIRF-00094,Indian Institute of Technology Madras,Chennai,Tamil Nadu,86.76,1,,,Indian Institute of Technology Madras,Tamil Nadu
+2021,Overall,Overall,NIRF-00067,Indian Institute of Science,Bengaluru,Karnataka,82.67,2,,,Indian Institute of Science,Karnataka
+2021,Overall,Overall,NIRF-00083,Indian Institute of Technology Bombay,Mumbai,Maharashtra,82.52,3,,,Indian Institute of Technology Bombay,Maharashtra
+2021,Overall,Overall,NIRF-00084,Indian Institute of Technology Delhi,New Delhi,Delhi,81.75,4,,,Indian Institute of Technology Delhi,Delhi
+2021,Overall,Overall,NIRF-00092,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,76.5,5,,,Indian Institute of Technology Kanpur,Uttar Pradesh
+2021,Overall,Overall,NIRF-00093,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,75.62,6,,,Indian Institute of Technology Kharagpur,West Bengal
+2021,Overall,Overall,NIRF-00097,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,71.4,7,,,Indian Institute of Technology Roorkee,Uttarakhand
+2021,Overall,Overall,NIRF-00086,Indian Institute of Technology Guwahati,Guwahati,Assam,69.26,8,,,Indian Institute of Technology Guwahati,Assam
+2021,Overall,Overall,NIRF-00110,Jawaharlal Nehru University,New Delhi,Delhi,66.61,9,,,Jawaharlal Nehru University,Delhi
+2021,Overall,Overall,NIRF-00018,Banaras Hindu University,Varanasi,Uttar Pradesh,63.1,10,,,Banaras Hindu University,Uttar Pradesh
+2021,Overall,Overall,NIRF-00030,Calcutta University,Kolkata,West Bengal,61.45,11,,,Calcutta University,West Bengal
+2021,Overall,Overall,NIRF-00011,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,59.87,12,,,Amrita Vishwa Vidyapeetham,Tamil Nadu
+2021,Overall,Overall,NIRF-00105,Jamia Millia Islamia,New Delhi,Delhi,59.54,13,,,Jamia Millia Islamia,Delhi
+2021,Overall,Overall,NIRF-00102,Jadavpur University,Kolkata,West Bengal,58.93,14,,,Jadavpur University,West Bengal
+2021,Overall,Overall,NIRF-00127,Manipal Academy of Higher Education,Manipal,Karnataka,58.91,15,,,Manipal Academy of Higher Education,Karnataka
+2021,Overall,Overall,NIRF-00087,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,58.53,16,,,Indian Institute of Technology Hyderabad,Telangana
+2021,Overall,Overall,NIRF-00191,University of Hyderabad,Hyderabad,Telangana,57.67,17,,,University of Hyderabad,Telangana
+2021,Overall,Overall,NIRF-00003,Aligarh Muslim University,Aligarh,Uttar Pradesh,57.38,18,,,Aligarh Muslim University,Uttar Pradesh
+2021,Overall,Overall,NIRF-00190,University of Delhi,Delhi,Delhi,56.03,19,,,University of Delhi,Delhi
+2021,Overall,Overall,NIRF-00161,Savitribai Phule Pune University,Pune,Maharashtra,55.83,20,,,Savitribai Phule Pune University,Maharashtra
+2021,Overall,Overall,NIRF-00197,Vellore Institute of Technology,Vellore,Tamil Nadu,55.39,21,,,Vellore Institute of Technology,Tamil Nadu
+2021,Overall,Overall,NIRF-00023,Bharathiar University,Coimbatore,Tamil Nadu,55.38,22,,,Bharathiar University,Tamil Nadu
+2021,Overall,Overall,NIRF-00143,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,54.97,23,,,National Institute of Technology Tiruchirappalli,Tamil Nadu
+2021,Overall,Overall,NIRF-00077,Indian Institute of Science Education & Research Pune,Pune,Maharashtra,54.47,24,,,Indian Institute of Science Education & Research Pune,Maharashtra
+2021,Overall,Overall,NIRF-00015,Anna University,Chennai,Tamil Nadu,54.42,25,,,Anna University,Tamil Nadu
+2021,Overall,Overall,NIRF-00088,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,53.88,26,,,Indian Institute of Technology (Indian School of Mines),Jharkhand
+2021,Overall,Overall,NIRF-00100,Institute of Chemical Technology,Mumbai,Maharashtra,53.76,27,,,Institute of Chemical Technology,Maharashtra
+2021,Overall,Overall,NIRF-00080,Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,53.74,28,,,Indian Institute of Technology (Banaras Hindu University) Varanasi,Uttar Pradesh
+2021,Overall,Overall,NIRF-00029,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,53.32,29,,,Birla Institute of Technology & Science - Pilani,Rajasthan
+2021,Overall,Overall,NIRF-00090,Indian Institute of Technology Indore,Indore,Madhya Pradesh,53.22,30,,,Indian Institute of Technology Indore,Madhya Pradesh
+2021,Overall,Overall,NIRF-00098,Indian Institute of Technology Ropar,Rupnagar,Punjab,52.89,31,,,Indian Institute of Technology Ropar,Punjab
+2021,Overall,Overall,NIRF-00138,National Institute of Technology Karnataka,Surathkal,Karnataka,52.88,32,,,National Institute of Technology Karnataka,Karnataka
+2021,Overall,Overall,NIRF-00085,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,52.77,33,,,Indian Institute of Technology Gandhinagar,Gujarat
+2021,Overall,Overall,NIRF-00133,Mysore University,Mysuru,Karnataka,50.49,34,,,Mysore University,Karnataka
+2021,Overall,Overall,NIRF-00075,Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,50.48,35,,,Indian Institute of Science Education & Research Kolkata,West Bengal
+2021,Overall,Overall,NIRF-00054,Homi Bhabha National Institute,Mumbai,Maharashtra,50.42,36,,,Homi Bhabha National Institute,Maharashtra
+2021,Overall,Overall,NIRF-00169,Siksha `O` Anusandhan,Bhubaneswar,Odisha,50.34,37,,,Siksha `O` Anusandhan,Odisha
+2021,Overall,Overall,NIRF-00148,Panjab University,Chandigarh,Chandigarh,50.31,38,,,Panjab University,Chandigarh
+2021,Overall,Overall,NIRF-00113,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,50.0,39,,,Kalinga Institute of Industrial Technology,Odisha
+2021,Overall,Overall,NIRF-00076,"Indian Institute of Science Education & Research, Mohali",Mohali,Punjab,49.58,40,,,Indian Institute of Science Education & Research Mohali,Punjab
+2021,Overall,Overall,NIRF-00140,National Institute of Technology Rourkela,Rourkela,Odisha,49.27,41,,,National Institute of Technology Rourkela,Odisha
+2021,Overall,Overall,NIRF-00164,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,49.15,42,,,Shanmugha Arts Science Technology & Research Academy,Tamil Nadu
+2021,Overall,Overall,NIRF-00009,Amity University,Gautam Budh Nagar,Uttar Pradesh,48.87,43,,,AMITY University,Uttar Pradesh
+2021,Overall,Overall,NIRF-00114,Kerala University,Thiruvananthapuram,Kerala,48.87,43,,,Kerala University,Kerala
+2021,Overall,Overall,NIRF-00184,Thapar Institute of Engineering and Technology,Patiala,Punjab,48.83,45,,,Thapar Institute of Engineering and Technology,Punjab
+2021,Overall,Overall,NIRF-00057,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,48.7,46,,,Indian Institute of Engineering Science and Technology,West Bengal
+2021,Overall,Overall,NIRF-00194,University of Madras,Chennai,Tamil Nadu,48.66,47,,,University of Madras,Tamil Nadu
+2021,Overall,Overall,NIRF-00014,"Andhra University, Visakhapatnam",Visakhapatnam,Andhra Pradesh,48.65,48,,,"Andhra University, Visakhapatnam",Andhra Pradesh
+2021,Overall,Overall,NIRF-00160,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,48.63,49,,,Saveetha Institute of Medical and Technical Sciences,Tamil Nadu
+2021,Overall,Overall,NIRF-00074,Indian Institute of Science Education & Research Bhopal,Bhopal,Madhya Pradesh,48.57,50,,,Indian Institute of Science Education & Research Bhopal,Madhya Pradesh
+2021,Overall,Overall,NIRF-00096,Indian Institute of Technology Patna,Patna,Bihar,47.67,51,,,Indian Institute of Technology Patna,Bihar
+2021,Overall,Overall,NIRF-00124,Mahatma Gandhi University,Kottayam,Kerala,47.62,52,,,Mahatma Gandhi University,Kerala
+2021,Overall,Overall,NIRF-00157,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,47.3,53,,,S. R. M. Institute of Science and Technology,Tamil Nadu
+2021,Overall,Overall,NIRF-00199,Visvesvaraya National Institute of Technology,Nagpur,Maharashtra,46.98,54,,,Visvesvaraya National Institute of Technology,Maharashtra
+2021,Overall,Overall,NIRF-00040,Delhi Technological University,New Delhi,Delhi,46.98,54,,,Delhi Technological University,Delhi
+2021,Overall,Overall,NIRF-00111,JSS Academy of Higher Education and Research,Mysuru,Karnataka,46.95,56,,,JSS Academy of Higher Education and Research,Karnataka
+2021,Overall,Overall,NIRF-00002,Alagappa University,Karaikudi,Tamil Nadu,46.79,57,,,Alagappa University,Tamil Nadu
+2021,Overall,Overall,NIRF-00082,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,46.78,58,,,Indian Institute of Technology Bhubaneswar,Odisha
+2021,Overall,Overall,NIRF-00144,National Institute of Technology Warangal,Warangal,Telangana,46.69,59,,,National Institute of Technology Warangal,Telangana
+2021,Overall,Overall,NIRF-00115,King George`s Medical University,Lucknow,Uttar Pradesh,46.65,60,,,King George`s Medical University,Uttar Pradesh
+2021,Overall,Overall,NIRF-00159,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,46.6,61,,,Sathyabama Institute of Science and Technology,Tamil Nadu
+2021,Overall,Overall,NIRF-00147,Osmania University,Hyderabad,Telangana,46.57,62,,,Osmania University,Telangana
+2021,Overall,Overall,NIRF-00050,Gujarat University,Ahmedabad,Gujarat,46.57,62,,,Gujarat University,Gujarat
+2021,Overall,Overall,NIRF-00104,Jamia Hamdard,New Delhi,Delhi,46.46,64,,,Jamia Hamdard,Delhi
+2021,Overall,Overall,NIRF-00035,Cochin University of Science and Technology,Cochin,Kerala,46.02,65,,,Cochin University of Science and Technology,Kerala
+2021,Overall,Overall,NIRF-00019,Banasthali Vidyapith,Banasthali,Rajasthan,45.89,66,,,Banasthali Vidyapith,Rajasthan
+2021,Overall,Overall,NIRF-00047,Gauhati University,Guwahati,Assam,45.87,67,,,Gauhati University,Assam
+2021,Overall,Overall,NIRF-00178,Symbiosis International,Pune,Maharashtra,45.65,68,,,Symbiosis International,Maharashtra
+2021,Overall,Overall,NIRF-00118,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,45.64,69,,,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Andhra Pradesh
+2021,Overall,Overall,NIRF-00182,Tata Institute of Social Sciences,Mumbai,Maharashtra,45.63,70,,,TATA Institute of Social Sciences,Maharashtra
+2021,Overall,Overall,NIRF-00137,National Institute of Technology Durgapur,Durgapur,West Bengal,45.36,71,,,National Institute of Technology Durgapur,West Bengal
+2021,Overall,Overall,NIRF-00126,Malaviya National Institute of Technology,Jaipur,Rajasthan,45.29,72,,,Malaviya National Institute of Technology,Rajasthan
+2021,Overall,Overall,NIRF-00183,Tezpur University,Tezpur,Assam,45.22,73,,,Tezpur University,Assam
+2021,Overall,Overall,NIRF-00112,Kalasalingam Academy of Research and Education,Srivilliputtur,Tamil Nadu,45.07,74,,,Kalasalingam Academy of Research and Education,Tamil Nadu
+2021,Overall,Overall,NIRF-00022,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,44.81,75,,,Bharath Institute of Higher Education & Research,Tamil Nadu
+2021,Overall,Overall,NIRF-00193,University of Kashmir,Srinagar,Jammu and Kashmir,44.64,76,,,University of Kashmir,Jammu and Kashmir
+2021,Overall,Overall,NIRF-00032,Chandigarh University,Mohali,Punjab,44.62,77,,,Chandigarh University,Punjab
+2021,Overall,Overall,NIRF-00041,Dr. B. R. Ambedkar National Institute of Technology,Jalandhar,Punjab,44.53,78,,,Dr. B. R. Ambedkar National Institute of Technology,Punjab
+2021,Overall,Overall,NIRF-00171,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,44.4,79,,,Sri Ramachandra Institute of Higher Education And Research,Tamil Nadu
+2021,Overall,Overall,NIRF-00043,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,44.19,80,,,Dr. D. Y. Patil Vidyapeeth,Maharashtra
+2021,Overall,Overall,NIRF-00120,Lovely Professional University,Phagwara,Punjab,43.95,81,,,Lovely Professional University,Punjab
+2021,Overall,Overall,NIRF-00095,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,43.93,82,,,Indian Institute of Technology Mandi,Himachal Pradesh
+2021,Overall,Overall,NIRF-00122,Madurai Kamaraj University,Madurai,Tamil Nadu,43.75,83,,,Madurai Kamaraj University,Tamil Nadu
+2021,Overall,Overall,NIRF-00167,Shiv Nadar University,Dadri,Uttar Pradesh,43.6,84,,,Shiv Nadar University,Uttar Pradesh
+2021,Overall,Overall,NIRF-00053,Guru Nanak Dev University,Amritsar,Punjab,43.21,85,,,Guru Nanak Dev University,Punjab
+2021,Overall,Overall,NIRF-00152,PSG College of Technology,Coimbatore,Tamil Nadu,43.14,86,,,PSG College of Technology,Tamil Nadu
+2021,Overall,Overall,NIRF-00150,Pondicherry University,Puducherry,Pondicherry,43.1,87,,,Pondicherry University,Puducherry
+2021,Overall,Overall,NIRF-00131,Motilal Nehru National Institute of Technology,Prayagraj,Uttar Pradesh,43.04,88,,,Motilal Nehru National Institute of Technology,Uttar Pradesh
+2021,Overall,Overall,NIRF-00174,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,42.94,89,,,Sri Sivasubramaniya Nadar College of Engineering,Tamil Nadu
+2021,Overall,Overall,NIRF-00146,North Eastern Hill University,Shillong,Meghalaya,42.79,90,,,North Eastern Hill University,Meghalaya
+2021,Overall,Overall,NIRF-00024,Bharathidasan University,Tiruchirappalli,Tamil Nadu,42.79,90,,,Bharathidasan University,Tamil Nadu
+2021,Overall,Overall,NIRF-00176,Sri Venkateswara University,Tirupati,Andhra Pradesh,42.78,92,,,Sri Venkateswara University,Andhra Pradesh
+2021,Overall,Overall,NIRF-00141,National Institute of Technology Silchar,Silchar,Assam,42.68,93,,,National Institute of Technology Silchar,Assam
+2021,Overall,Overall,NIRF-00177,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,42.56,94,,,SVKM`s Narsee Monjee Institute of Management Studies,Maharashtra
+2021,Overall,Overall,NIRF-00031,Calicut University,Malappuram,Kerala,42.42,95,,,Calicut University,Kerala
+2021,Overall,Overall,NIRF-00132,Mumbai University,Mumbai,Maharashtra,41.79,96,,,Mumbai University,Maharashtra
+2021,Overall,Overall,NIRF-00198,Visva Bharati,Santiniketan,West Bengal,41.74,97,,,Visva Bharati,West Bengal
+2021,Overall,Overall,NIRF-00158,Sardar Vallabhbhai National Institute of Technology,Surat,Gujarat,41.72,98,,,Sardar Vallabhbhai National Institute of Technology,Gujarat
+2021,Overall,Overall,NIRF-00052,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,41.43,99,,,Guru Gobind Singh Indraprastha University,Delhi
+2021,Overall,Overall,NIRF-00038,Datta Meghe Institute of Medical Sciences,Wardha,Maharashtra,41.1,100,,,Datta Meghe Institute of Medical Sciences,Maharashtra
